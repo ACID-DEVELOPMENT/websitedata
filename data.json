@@ -11,9 +11,19 @@
             "Text": "Games that follow our passion.",
             "List": [
                 {
-                    "Name": "",
-                    "Logo": "",
-                    "BackGround": ""
+                    "Name": "CSGO",
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/CSGO_Logo.svg",
+                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/CS_Background.png"
+                },
+                {
+                    "Name": "Valorant",
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/Valorant_Logo.svg",
+                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Val_Background.png"
+                },
+                {
+                    "Name": "Leage Of Leag",
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/League_Logo.svg",
+                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Leage_Background.png"
                 }
             ]
         },
