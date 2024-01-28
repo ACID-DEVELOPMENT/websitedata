@@ -33,12 +33,16 @@
                 "Text": "See All",
                 "Link": "#"
             },
-            "Links": [
+            "List": [
                 {
-                    "Tags": [],
-                    "Timestemp": "",
-                    "Title": "",
-                    "Link": "#"
+                    "Tags": [
+                        "Tag1",
+                        "Tag2"
+                    ],
+                    "Timestemp": "JAN 1, 2024",
+                    "Title": "THE RACOONS HAVE WON THE KINGSCON, WHAT’S NEW!",
+                    "Link": "#",
+                    "Image": "#"
                 }
             ]
         }
