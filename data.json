@@ -1,5 +1,94 @@
 {
-  "Home": {
-    "About": "Welcome to ACID, a gaming community dedicated to inclusivity and diversity. Politics, religion, and racism have no place here. Whether you play Valorant, Fortnite, PUBG Mobile, GTA V Online, or more, ACID embraces all gamers. We're moving forward into esports, offering a platform for everyone to compete and connect. Join ACID, where the only limit is your passion for gaming."
-  }
+    "Home": {
+        "About": "Welcome to ACID, a gaming community dedicated to inclusivity and diversity. Politics, religion, and racism have no place here. Whether you play Valorant, Fortnite, PUBG Mobile, GTA V Online, or more, ACID embraces all gamers. We're moving forward into esports, offering a platform for everyone to compete and connect. Join ACID, where the only limit is your passion for gaming.",
+        "HeroSection": {
+            "Top": "WELCOME TO ACID COMMUNITY",
+            "Hedding": "PROFESSIONAL GAMING COMMUNITY TO WORD ESPORTS.",
+            "Button": "Learn More",
+            "Link": "#"
+        },
+        "Games": {
+            "Text": "Games that follow our passion.",
+            "List": [
+                {
+                    "Name": "",
+                    "Logo": "",
+                    "BackGround"
+                }
+            ]
+        },
+        "Team": {
+            "Text": "We are a group of innovative, experienced, and proficient teams. You will love to collaborate with us.",
+        },
+        "WYWAF": {
+            "Text": "Dive into the limitless world of ACID, where gaming knows no boundaries. Join us now for an inclusive and thrilling gaming experience!",
+            "Link": "#"
+        },
+        "BAM": {
+            "Text": "Become a member of ACID today and unlock a world of diverse gaming experiences. Join us and be part of a community that celebrates your passion for gaming, free from discrimination.",
+            "Link": "#"
+        },
+        "Articals": {
+            "SeeAll": {
+                "Text": "See All",
+                "Link": "#"
+            },
+            "Links": [
+                {
+                    "Tags": [],
+                    "Timestemp": "",
+                    "Title": "",
+                    "Link": "#"
+                }
+            ]
+        }
+    },
+    "About": {
+        "About": "Welcome to ACID, the gaming community that thrives on inclusivity, camaraderie, and a shared passion for gaming. At ACID, we believe in creating a space where everyone, regardless of their background, can come together to enjoy a diverse range of games without the interference of politics, religion, or racism. Our mission is to provide a welcoming environment that fosters friendship, mutual respect, and an exceptional gaming experience for all. In the world of ACID, the love for gaming transcends boundaries. Whether you're into tactical shooters like Valorant, battle royales such as Fortnite, mobile gaming with PUBG Mobile, or the open-world adventures in GTA V Online and RP, we have a place for you. Our community embraces the diverse gaming preferences of its members, ensuring that everyone can find like-minded individuals to connect with. One of the core values of ACID is the rejection of discrimination based on race, ethnicity, or any other factors. We believe in unity through gaming, where players from all walks of life come together to share their passion. Our community actively promotes an atmosphere of acceptance, understanding, and friendship, allowing members to focus on what unites them—the love for gaming. As we evolve, ACID is excited to step into the world of esports. We recognize the growing popularity and competitiveness of esports, and we aim to provide a platform for our members to showcase their skills and compete at the highest level. Whether you're a casual gamer or an aspiring esports professional, ACID welcomes you to be a part of our journey as we explore the exciting realm of competitive gaming. Joining ACID means becoming a part of a community that values every member, appreciates diversity, and celebrates the shared joy of gaming. No matter where you come from or what your gaming preferences are, you'll find a home at ACID, where the only limits are the ones you set for yourself. Let's game together, break barriers, and create lasting memories in the world of ACID.",
+        "Location": "Apt: 24, Building No. 1132, Road No. 1816, Al-Hoora 318, Manama, Bahrain",
+        "Email": "acidcommunity1@gmail.com"
+    },
+    "SocialMedia": [
+        {
+            "Name": "Discord",
+            "Link": "https://disboard.org/server/743816840769306709",
+            "Icon": "bi-discord"
+        },
+        {
+            "Name": "instagram",
+            "Link": "https://www.instagram.com/acid_community_offical/",
+            "Icon": "bi bi-instagram"
+        },
+        {
+            "Name": "youtube",
+            "Link": "https://www.youtube.com/@acid.community",
+            "Icon": "bi bi-youtube"
+        }
+    ],
+    "Youtube": "https://www.youtube.com/@acid.community",
+    "MembershipForm": "https://docs.google.com/forms/d/e/1FAIpQLSfHy_DjC_iBI_KpsOmml01NH58sCOBPbhOPwQxw_M8heEP6-w/viewform",
+    "NavBar": {
+      "Logo": {
+        "Text": "",
+        "Link": ""
+      },
+      "BecomeMember": "Become a Member?",
+    },
+    "Footer": {
+        "FooterAbout": "A gaming community without borders—no politics, no religion, no racism. From Valorant to GTA V Online, unite with diverse gamers. Embrace esports; join ACID for limitless gaming passion.",
+        "Links": [
+            {
+                "Name": "Discord",
+                "Link": "https://disboard.org/server/743816840769306709"
+            },
+            {
+                "Name": "Instagram",
+                "Link": "https://www.instagram.com/acid_community_offical/"
+            },
+            {
+                "Name": "Youtube",
+                "Link": "https://www.youtube.com/@acid.community"
+            }
+        ]
+    }
 }
