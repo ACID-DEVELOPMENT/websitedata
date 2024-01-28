@@ -13,12 +13,12 @@
                 {
                     "Name": "",
                     "Logo": "",
-                    "BackGround"
+                    "BackGround": ""
                 }
             ]
         },
         "Team": {
-            "Text": "We are a group of innovative, experienced, and proficient teams. You will love to collaborate with us.",
+            "Text": "We are a group of innovative, experienced, and proficient teams. You will love to collaborate with us."
         },
         "WYWAF": {
             "Text": "Dive into the limitless world of ACID, where gaming knows no boundaries. Join us now for an inclusive and thrilling gaming experience!",
@@ -68,11 +68,11 @@
     "Youtube": "https://www.youtube.com/@acid.community",
     "MembershipForm": "https://docs.google.com/forms/d/e/1FAIpQLSfHy_DjC_iBI_KpsOmml01NH58sCOBPbhOPwQxw_M8heEP6-w/viewform",
     "NavBar": {
-      "Logo": {
-        "Text": "",
-        "Link": ""
-      },
-      "BecomeMember": "Become a Member?",
+        "Logo": {
+            "Text": "",
+            "Link": ""
+        },
+        "BecomeMember": "Become a Member?"
     },
     "Footer": {
         "FooterAbout": "A gaming community without borders—no politics, no religion, no racism. From Valorant to GTA V Online, unite with diverse gamers. Embrace esports; join ACID for limitless gaming passion.",
