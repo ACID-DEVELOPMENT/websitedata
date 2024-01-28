@@ -135,5 +135,28 @@
                 "Link": "https://www.youtube.com/@acid.community"
             }
         ]
-    }
+    },
+    "LiveList": [
+        {
+            "Name": "2Thoughts",
+            "Link": "https://www.youtube.com/@2Thoughts/live"
+        },
+        {
+            "Name": "Ghost",
+            "Link": "https://www.youtube.com/@MrGhost786/live"
+        },
+        {
+            "Name": "Wale3D",
+            "Link": "https://www.youtube.com/channel/UCljDQFYCdCTiaG1sb817bIg/live"
+        },
+        {
+            "Name": "Candy Playz",
+            "Link": "https://www.youtube.com/c/candyplayzofficial/live"
+        },
+        ,
+        {
+            "Name": "JuTT Plays",
+            "Link": "https://www.youtube.com/@JuTTPlaysYT540/live"
+        },
+    ]
 }
