@@ -157,5 +157,42 @@
             "Name": "JuTT Plays",
             "Link": "https://www.youtube.com/@JuTTPlaysYT540/live"
         }
+    ],
+    "Team": [
+        {
+            "Name": "Flora Nyra",
+            "Designation": "Product Manager",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
+            "HomePage": true,
+            "Position": 0
+        },
+        {
+            "Name": "Flora Nyra",
+            "Designation": "Product Manager",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
+            "HomePage": true,
+            "Position": 1
+        },
+       {
+            "Name": "Flora Nyra",
+            "Designation": "Product Manager",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
+            "HomePage": true,
+            "Position": 2
+        },
+        {
+            "Name": "Flora Nyra",
+            "Designation": "Product Manager",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
+            "HomePage": true,
+            "Position": 3
+        },      
+        {
+            "Name": "Flora Nyra",
+            "Designation": "Product Manager",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
+            "HomePage": true,
+            "Position": 4
+        },
     ]
 }
