@@ -191,7 +191,7 @@
             "Name": "Flora Nyra",
             "Designation": "Product Manager",
             "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": true,
+            "HomePage": false,
             "Position": 4
         }
     ]
