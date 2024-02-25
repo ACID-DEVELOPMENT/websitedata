@@ -1,6 +1,10 @@
 {
     "BigLogo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Acid_2.png",
     "Home": {
+        "Team": {
+            "Heading": "MEET OUR ELITE TEAM",
+            "SubHeading": "We are a group of innovative, experienced, and proficient teams. You will love to collaborate with us."
+        },
         "About": "Welcome to ACID, a gaming community dedicated to inclusivity and diversity. Politics, religion, and racism have no place here. Whether you play Valorant, Fortnite, PUBG Mobile, GTA V Online, or more, ACID embraces all gamers. We're moving forward into esports, offering a platform for everyone to compete and connect. Join ACID, where the only limit is your passion for gaming.",
         "HeroSection": {
             "Top": "WELCOME TO ACID COMMUNITY",
@@ -9,6 +13,7 @@
             "Link": "#"
         },
         "Games": {
+            "Heading": "Games",
             "Text": "Games that follow our passion.",
             "List": [
                 {
@@ -32,10 +37,12 @@
             "Text": "We are a group of innovative, experienced, and proficient teams. You will love to collaborate with us."
         },
         "WYWAF": {
+            "Heading": "WHAT ARE YOU WAITING FOR?",
             "Text": "Dive into the limitless world of ACID, where gaming knows no boundaries. Join us now for an inclusive and thrilling gaming experience!",
             "Link": "https://forms.gle/n8jYsVffevjDcUG1A"
         },
         "BAM": {
+            "Heading": "Become a Member?",
             "Text": "Become a member of ACID today and unlock a world of diverse gaming experiences. Join us and be part of a community that celebrates your passion for gaming, free from discrimination.",
             "Link": "https://forms.gle/n8jYsVffevjDcUG1A"
         },
