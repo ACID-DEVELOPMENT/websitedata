@@ -158,6 +158,12 @@
             "Link": "https://www.youtube.com/@JuTTPlaysYT540/live"
         }
     ],
+    "TeamPage": {
+        "Top": "Where Skill Meets Strategy",
+        "TopHedding": "Unleash the Gaming Titans:<br/>ACID Dominates the Digital Arena",
+        "Hedding": "ACIDxTeam",
+        "subHeading": "Beyond Boundaries, Beyond Pixels - Welcome to the Epicenter of ACID Esports Mastery"
+    },
     "Team": [
         {
             "Name": "Flora Nyra",
