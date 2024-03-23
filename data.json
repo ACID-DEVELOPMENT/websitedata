@@ -174,7 +174,7 @@
     "Team": [
       {
         "Name": "Muhammad Rizwan",
-        "Nickname": "2Thoughts",
+        //"Nickname": "2Thoughts",
         "Designation": "CEO",
         "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
         "HomePage": true,
@@ -182,7 +182,7 @@
       },
       {
         "Name": "Muhammad Ali",
-        "Nickname": "Nitrous",
+        //"Nickname": "Nitrous",
         "Designation": "COO",
         "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
         "HomePage": true,
@@ -190,7 +190,7 @@
       },
       {
         "Name": "Muhammad Usman",
-        "Nickname": "",
+       // "Nickname": "",
         "Designation": "CFO & CTO",
         "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
         "HomePage": true,
@@ -198,7 +198,7 @@
       },
       {
         "Name": "Muhammad Asr Rehman",
-        "Nickname": "",
+       // "Nickname": "",
         "Designation": "Human Resource Manager",
         "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/dexter.png",
         "HomePage": true,
@@ -206,7 +206,7 @@
       }
       //{
       //  "Name": "Muhammad",
-      //  "Nickname": "",
+      // // "Nickname": "",
       //  "Designation": "Product Manager",
       //  "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
       //  "HomePage": false,
