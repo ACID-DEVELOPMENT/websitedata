@@ -173,35 +173,35 @@
     },
     "Team": [
         {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
+            "Name": "Muhammad Rizwan",
+            "Designation": "CEO",
             "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
             "HomePage": true,
             "Position": 0
         },
         {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
+            "Name": "Muhammad Ali",
+            "Designation": "COO",
             "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
             "HomePage": true,
             "Position": 1
         },
        {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
+            "Name": "Muhammad Usman",
+            "Designation": "CFO & CTO",
             "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
             "HomePage": true,
             "Position": 2
         },
         {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
+            "Name": "Muhammad Asr",
+            "Designation": "Human Resource Manager",
             "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
             "HomePage": true,
             "Position": 3
         },      
         {
-            "Name": "Flora Nyra",
+            "Name": "Muhammad ",
             "Designation": "Product Manager",
             "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
             "HomePage": false,
