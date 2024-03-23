@@ -175,37 +175,37 @@
         {
             "Name": "Muhammad Rizwan",
             "Designation": "CEO",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/rizwan.png",
             "HomePage": true,
             "Position": 0
         },
-        {
-            "Name": "Muhammad Ali",
-            "Designation": "COO",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": true,
-            "Position": 1
-        },
+      {
+        "Name": "Muhammad Ali",
+        "Designation": "COO",
+        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/usman.jpg",
+        "HomePage": true,
+        "Position": 1
+      },
        {
             "Name": "Muhammad Usman",
             "Designation": "CFO & CTO",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/usman.jpg",
             "HomePage": true,
             "Position": 2
         },
-        {
-            "Name": "Muhammad Asr",
-            "Designation": "Human Resource Manager",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": true,
-            "Position": 3
-        },      
-        {
-            "Name": "Muhammad ",
-            "Designation": "Product Manager",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": false,
-            "Position": 4
-        }
+      {
+        "Name": "Muhammad Asr",
+        "Designation": "Human Resource Manager",
+        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/dexter.png",
+        "HomePage": true,
+        "Position": 3
+      },
+      {
+        "Name": "Muhammad ",
+        "Designation": "Product Manager",
+        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/rizwan.png",
+        "HomePage": false,
+        "Position": 4
+      }
     ]
 }
