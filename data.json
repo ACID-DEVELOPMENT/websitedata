@@ -172,40 +172,45 @@
         "subHeading": "Beyond Boundaries, Beyond Pixels - Welcome to the Epicenter of ACID Esports Mastery"
     },
     "Team": [
-        {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": true,
-            "Position": 0
-        },
-        {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": true,
-            "Position": 1
-        },
-       {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": true,
-            "Position": 2
-        },
-        {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": true,
-            "Position": 3
-        },      
-        {
-            "Name": "Flora Nyra",
-            "Designation": "Product Manager",
-            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/team-img-1.jpg",
-            "HomePage": false,
-            "Position": 4
-        }
+      {
+        "Name": "Muhammad Rizwan",
+        "Nickname": "2Thoughts",
+        "Designation": "CEO",
+        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
+        "HomePage": true,
+        "Position": 0
+      },
+      {
+        "Name": "Muhammad Ali",
+        "Nickname": "Nitrous",
+        "Designation": "COO",
+        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
+        "HomePage": true,
+        "Position": 1
+      },
+      {
+        "Name": "Muhammad Usman",
+        "Nickname": "",
+        "Designation": "CFO & CTO",
+        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
+        "HomePage": true,
+        "Position": 2
+      },
+      {
+        "Name": "Muhammad Asr Rehman",
+        "Nickname": "",
+        "Designation": "Human Resource Manager",
+        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/dexter.png",
+        "HomePage": true,
+        "Position": 3
+      //},
+      //{
+      //  "Name": "Muhammad",
+      //  "Nickname": "",
+      //  "Designation": "Product Manager",
+      //  "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
+      //  "HomePage": false,
+      //  "Position": 4
+      }
     ]
 }
