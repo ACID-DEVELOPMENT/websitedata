@@ -203,7 +203,7 @@
         "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/dexter.png",
         "HomePage": true,
         "Position": 3
-      //},
+      }
       //{
       //  "Name": "Muhammad",
       //  "Nickname": "",
@@ -211,6 +211,6 @@
       //  "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/2thoughts.png",
       //  "HomePage": false,
       //  "Position": 4
-      }
+      //}
     ]
 }
