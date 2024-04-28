@@ -182,7 +182,7 @@
       {
         "Name": "Muhammad Ali",
         "Designation": "COO",
-        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/usman.jpg",
+        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/ali.png",
         "HomePage": true,
         "Position": 1
       },
@@ -199,13 +199,6 @@
         "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/dexter.png",
         "HomePage": true,
         "Position": 3
-      },
-      {
-        "Name": "Muhammad ",
-        "Designation": "Product Manager",
-        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/rizwan.png",
-        "HomePage": false,
-        "Position": 4
       }
     ]
 }
