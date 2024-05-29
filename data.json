@@ -18,18 +18,18 @@
             "List": [
                 {
                     "Name": "CSGO",
-                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/CSGO_Logo.svg",
-                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/CS_Background.png"
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/games/CSGO_Logo.svg",
+                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/CS_Background.png"
                 },
                 {
                     "Name": "Valorant",
-                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/Valorant_Logo.svg",
-                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Val_Background.png"
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/games/Valorant_Logo.svg",
+                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/Val_Background.png"
                 },
                 {
                     "Name": "Leage Of Leag",
-                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/League_Logo.svg",
-                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Leage_Background.png"
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/games/League_Logo.svg",
+                    "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/Leage_Background.png"
                 }
             ]
         },
@@ -59,8 +59,8 @@
                     ],
                     "Timestemp": "JAN 1, 2024",
                     "Title": "THE RACOONS HAVE WON THE KINGSCON, WHAT’S NEW!",
-                    "Link": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Blog_Post_01.png",
-                    "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Blog_Post_01.png"
+                    "Link": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/blogs/Blog_Post_01.png",
+                    "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/blogs/Blog_Post_01.png"
                 },
                  {
                     "Tags": [
@@ -69,8 +69,8 @@
                     ],
                     "Timestemp": "JAN 1, 2024",
                     "Title": "THE RACOONS HAVE WON THE KINGSCON, WHAT’S NEW!",
-                    "Link": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Blog_Post_01.png",
-                    "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Blog_Post_01.png"
+                    "Link": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/blogs/Blog_Post_01.png",
+                    "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/blogs/Blog_Post_01.png"
                 },
                  {
                     "Tags": [
@@ -79,8 +79,8 @@
                     ],
                     "Timestemp": "JAN 1, 2024",
                     "Title": "THE RACOONS HAVE WON THE KINGSCON, WHAT’S NEW!",
-                    "Link": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Blog_Post_01.png",
-                    "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Blog_Post_01.png"
+                    "Link": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/blogs/Blog_Post_01.png",
+                    "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/blogs/Blog_Post_01.png"
                 },
                  {
                     "Tags": [
@@ -89,8 +89,8 @@
                     ],
                     "Timestemp": "JAN 1, 2024",
                     "Title": "THE RACOONS HAVE WON THE KINGSCON, WHAT’S NEW!",
-                    "Link": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Blog_Post_01.png",
-                    "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/Blog_Post_01.png"
+                    "Link": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/blogs/Blog_Post_01.png",
+                    "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/blogs/Blog_Post_01.png"
                 }
             ]
         }
@@ -179,26 +179,26 @@
             "HomePage": true,
             "Position": 0
         },
-      {
-        "Name": "Muhammad Ali",
-        "Designation": "COO",
-        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/ali.png",
-        "HomePage": true,
-        "Position": 1
-      },
-       {
+        {
+            "Name": "Muhammad Ali",
+            "Designation": "COO",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/ali.png",
+            "HomePage": true,
+            "Position": 1
+        },
+        {
             "Name": "Muhammad Usman",
             "Designation": "CFO & CTO",
             "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/usman.jpg",
             "HomePage": true,
             "Position": 2
         },
-      {
-        "Name": "Muhammad Asr",
-        "Designation": "Human Resource Manager",
-        "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/dexter.png",
-        "HomePage": true,
-        "Position": 3
-      }
+        {
+            "Name": "Nabeel Dilnawaz",
+            "Designation": "Human Resource Manager",
+            "Image": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/members/blank.jpg",
+            "HomePage": true,
+            "Position": 3
+        }
     ]
 }
