@@ -18,17 +18,17 @@
             "List": [
                 {
                     "Name": "CSGO",
-                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/games/CSGO_Logo.svg",
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/CSGO_Logo.svg",
                     "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/CS_Background.png"
                 },
                 {
                     "Name": "Valorant",
-                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/games/Valorant_Logo.svg",
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/Valorant_Logo.svg",
                     "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/Val_Background.png"
                 },
                 {
                     "Name": "Leage Of Leag",
-                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/7532f0db0b9446bf73f6b892c07b799f7ec61275/images/games/League_Logo.svg",
+                    "Logo": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/League_Logo.svg",
                     "BackGround": "https://raw.githubusercontent.com/ACID-DEVELOPMENT/websitedata/main/images/games/Leage_Background.png"
                 }
             ]
